@@ -8,14 +8,5 @@
 3. Disparity Map Generation
 ## 2. Usage
 - Open the Image Processing for VRAR Systems ipynb file and run
-- Make sure you have these packages installed
-`import os
-import cv2
-import math
-import numpy as np
-import matplotlib.pyplot as plt
-from PIL import Image
-from skimage.draw import ellipse
-from scipy.signal import convolve2d
-from pylab import *
-from scipy.ndimage import *`
+- Make sure you have these packages installed:
+`Os, Opencv-python, Math, Numpy, Matplotlib, PIL, Skimage, Scipy, and Pylab`
