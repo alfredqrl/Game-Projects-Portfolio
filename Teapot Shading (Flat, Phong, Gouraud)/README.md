@@ -1,4 +1,4 @@
-# Rendering Different Shadings in Teapot
+# Rendering Different Shadings for Three Teapots
 ## 1. Usage
 - Open this whole folder using Visual Studio Code
 - Install Live Server Extension
